@@ -227,6 +227,3 @@
 - [Travel Guide](https://github.com/Ivaskuu/travel-guide_app) - Travel guide app by [Ivascu Adrian](https://github.com/Ivaskuu/).
 - [ShareACab](https://github.com/devclub-iitd/ShareACab) - Cab Sharing App for college students by [DevClub IIT Delhi](https://github.com/devclub-iitd/).
 
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
